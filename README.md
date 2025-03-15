@@ -11,7 +11,7 @@ Each webinar features insightful discussions, coding tutorials, and practical ap
 
 ### 📍 Webinar 2: *Stanford Code in Place*  
 
-<img src="https://github.com/user-attachments/assets/3c594965-b9f5-4f20-80bc-78a6dc43efd3" alt="Webinar Poster" width="400px">  
+<img src="https://github.com/user-attachments/assets/3c594965-b9f5-4f20-80bc-78a6dc43efd3" alt="Webinar Poster" width="350px">  
 
 - Date: **15 March 2025**  
 - University: **Government College University Lahore**
@@ -22,7 +22,7 @@ Each webinar features insightful discussions, coding tutorials, and practical ap
 
 ### 📍 Webinar 1: *Stanford Code in Place*  
 
-<img src="https://github.com/user-attachments/assets/cbd3992a-a2af-44bb-a351-e0f66acec73d" alt="Webinar Poster" width="400px">  
+<img src="https://github.com/user-attachments/assets/cbd3992a-a2af-44bb-a351-e0f66acec73d" alt="Webinar Poster" width="350px">  
 
 - Date: ** 09 March 2025 ** 
 - University: **University Of Agriculture Faisalabad**
