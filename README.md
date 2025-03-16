@@ -1,6 +1,6 @@
 # Stanford Code in Place Webinars 🎓💻
 
-Welcome to the repository for webinars conducted under the **Stanford Code in Place** initiative. This repository aims to provide easy access to recordings from webinars held at various universities.  
+Welcome to the repository for webinars conducted under the **Stanford Code in Place** initiative organized by iCodeGuru in Collaboration with these universities. This repository aims to provide easy access to recordings from webinars held at various universities.  
 
 Each webinar features insightful discussions, coding tutorials, and practical applications to inspire and empower learners in the field of technology.
 
