@@ -15,7 +15,7 @@ Each webinar features insightful discussions, coding tutorials, and practical ap
 
 - Date: **15 March 2025**  
 - University: **Government College University Lahore**
-- Linkedin:
+- Linkedin: [Interact with Linkedin Post](https://www.linkedin.com/posts/muhammad-hamza-hassaan_webinar-wrapup-this-was-hosted-by-government-activity-7306859655870189570-psGA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-_PRUBQXgWwEoyxOYJyjter0cg1fhPaVk)
 - **Recording:** [Watch the Webinar](https://drive.google.com/file/d/1HYrURPdU-3O_38udscBhgPCur7B3_Cay/view?usp=sharing)  
 
 ---
