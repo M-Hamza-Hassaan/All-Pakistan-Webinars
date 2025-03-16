@@ -16,7 +16,7 @@ Each webinar features insightful discussions, coding tutorials, and practical ap
 - Date: **15 March 2025**  
 - University: **Government College University Lahore**
 - Linkedin:
-- **Recording:** [Watch the Webinar](link-to-google-drive-video)  
+- **Recording:** [Watch the Webinar](https://drive.google.com/file/d/1HYrURPdU-3O_38udscBhgPCur7B3_Cay/view?usp=sharing)  
 
 ---
 
